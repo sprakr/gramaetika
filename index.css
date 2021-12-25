@@ -1,7 +1,8 @@
 header {
     background-color: rgba(244, 162, 97, 0.2);
-    height: 125px;
-    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
 }
 
 #logo h1 {
