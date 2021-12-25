@@ -1,13 +1,13 @@
 header {
+    position: relative;
     background-color: rgba(244, 162, 97, 0.2);
-    top: 0px;
-    right: 0px;
-    left: 0px;
+    margin: 0px;
 }
 
 #logo h1 {
     font-family: 'Poppins', sans-serif;
 }
+
 
 body {
     background-image: linear-gradient(to bottom right, #264653, #2a9d8f);
